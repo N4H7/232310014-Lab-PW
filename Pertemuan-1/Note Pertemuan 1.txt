@@ -1,0 +1,19 @@
+p = paragraph
+em = paragraph + italic
+strong = paragraph + bold
+mark = paragraph + highlight
+sup = pangkat atas
+sub = pangkat Bawah
+Span = searching
+Div = searching
+img = image | src = source URl foto | alt = hal yang muncul jika image Utama itdak mnuncul
+a = link pengarah
+target = arah setelah klik link
+iframe = memasukin web dalam web
+
+ol = numbering seperti word| dalam OL ada LI untuk mengisi isi dari list 
+ul = list menggunakan point
+
+dl = description list | dalam dl ada dt = text nya | dalam dt ada dd sama deskripsi namun menjorok ke tengah
+
+table = table | dalamnya ada thead | dalamnya ada tr | dalamnya ada th
