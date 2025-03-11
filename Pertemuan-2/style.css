@@ -1,0 +1,64 @@
+/* External css */
+
+aside h5{
+    color: darkorange;
+}
+
+footer{
+    background-color: grey;
+}
+
+main h1,h2{
+    text-decoration: underline;
+}
+#Para1{
+        font-style: italic;
+        font-weight: bold;
+        color: brown;
+    }
+
+p.Description{
+    font-size: 15px;
+    color: hotpink;
+}
+
+h3{
+    font-weight: lighter;
+}
+
+h4{
+    color: blue;
+}
+
+div p {
+    background-color: blanchedalmond;
+}
+
+#card{
+    /* border: 1px solid blue; */
+    border: 2px dotted plum;
+    border-radius: 2px;
+    margin: 50px;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 25px 50px 75px 100px;
+}
+
+.para2:hover{
+    font-size: 1em;
+    color: whitesmoke;
+    background-color: blue;
+    text-align: center;
+}
+
+p::first-line{
+    /* color: aqua; */
+}
+
+body{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
